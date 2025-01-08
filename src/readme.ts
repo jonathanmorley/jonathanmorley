@@ -3,7 +3,7 @@ import path from 'node:path';
 import { Octokit } from '@octokit/rest';
 import { type SimpleCheck, getChecks, checksToMarkdown } from './checks.ts';
 import { type SimpleWorkflow, getWorkflows, workflowsToMarkdown } from './workflows.ts';
-import { SimpleRepository } from './repositories.ts';
+import { type SimpleRepository } from './repositories.ts';
 
 async function updateReadme(checks: SimpleCheck[], workflows: SimpleWorkflow[]): Promise<void> {
   const readmePath = path.join(import.meta.dirname, '..', 'README.md');
