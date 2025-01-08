@@ -1,7 +1,7 @@
 import { Octokit, type RestEndpointMethodTypes } from '@octokit/rest';
 import json2md from 'json2md';
-import { SimpleRepository } from './repositories.ts';
-import { Unpacked } from './types.ts';
+import { type Unpacked } from './types.ts';
+import { type SimpleRepository } from './repositories.ts';
 
 export type SimpleWorkflow = Pick<Unpacked<RestEndpointMethodTypes['actions']['listRepoWorkflows']['response']['data']['workflows']>, 'name' | 'state' | 'badge_url' | 'html_url'> & { repo: string, repo_url: string };
 

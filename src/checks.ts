@@ -1,7 +1,7 @@
 import { Octokit, type RestEndpointMethodTypes } from '@octokit/rest';
 import json2md from 'json2md';
-import { Unpacked } from './types.ts';
-import { SimpleRepository } from './repositories.ts';
+import { type Unpacked } from './types.ts';
+import { type SimpleRepository } from './repositories.ts';
 
 export type SimpleCheck = Pick<Unpacked<RestEndpointMethodTypes['checks']['listForRef']['response']['data']['check_runs']>, 'name' | 'status' | 'conclusion' | 'html_url'> & { repo: string, repo_url: string };
 
