@@ -1,0 +1,18 @@
+{
+  "name": "jonathanmorley",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/rest": "^21.0.2",
+    "json2md": "^2.0.1"
+  },
+  "devDependencies": {
+    "@types/json2md": "^1.5.4",
+    "@types/node": "^22.10.5"
+  }
+}
