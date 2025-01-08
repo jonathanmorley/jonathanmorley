@@ -3,6 +3,7 @@ import path from 'node:path';
 import { Octokit } from '@octokit/rest';
 import { type SimpleCheck, getChecks, checksToMarkdown } from './checks.ts';
 import { type SimpleWorkflow, getWorkflows, workflowsToMarkdown } from './workflows.ts';
+import { SimpleRepository } from './repositories.ts';
 
 async function updateReadme(checks: SimpleCheck[], workflows: SimpleWorkflow[]): Promise<void> {
   const readmePath = path.join(import.meta.dirname, '..', 'README.md');
@@ -23,10 +24,14 @@ async function updateReadme(checks: SimpleCheck[], workflows: SimpleWorkflow[]):
 const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
 
 const repos = await octokit.paginate(octokit.repos.listForUser, { username: 'jonathanmorley' });
-const results = await Promise.all(repos.map(async repo => ({
-  checks: await getChecks(octokit, repo),
-  workflows: await getWorkflows(octokit, repo)
-})));
+const results = await Promise.all(repos.map(async repo => {
+  if (!repo.default_branch) throw new Error(`Default branch not found for ${repo.full_name}`);
+
+  return {
+    checks: await getChecks(octokit, repo as SimpleRepository),
+    workflows: await getWorkflows(octokit, repo as SimpleRepository)
+  }
+}));
 
 const checks = results.flatMap(result => result.checks);
 const workflows = results.flatMap(result => result.workflows);

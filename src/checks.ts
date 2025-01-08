@@ -1,10 +1,11 @@
 import { Octokit, type RestEndpointMethodTypes } from '@octokit/rest';
 import json2md from 'json2md';
+import { Unpacked } from './types';
+import { SimpleRepository } from './repositories';
 
-type Unpacked<T> = T extends (infer U)[] ? U : T;
-export type SimpleCheck = Pick<Unpacked<RestEndpointMethodTypes['checks']['listForRef']['response']['data']['check_runs']>, 'name' | 'status' | 'conclusion' | 'html_url'> & { repo: string };
+export type SimpleCheck = Pick<Unpacked<RestEndpointMethodTypes['checks']['listForRef']['response']['data']['check_runs']>, 'name' | 'status' | 'conclusion' | 'html_url'> & { repo: string, repo_url: string };
 
-export async function getChecks(octokit: Octokit, repository: { owner: { login: string }, name: string, full_name: string, default_branch?: string }): Promise<SimpleCheck[]> {
+export async function getChecks(octokit: Octokit, repository: SimpleRepository): Promise<SimpleCheck[]> {
   const checks = await octokit.paginate(octokit.checks.listForRef, {
     owner: repository.owner.login,
     repo: repository.name,
@@ -13,6 +14,7 @@ export async function getChecks(octokit: Octokit, repository: { owner: { login: 
 
   return checks.map(({ name, status, conclusion, html_url }) => ({
     repo: repository.full_name,
+    repo_url: repository.html_url,
     name,
     status,
     conclusion,
@@ -24,8 +26,8 @@ export function checksToMarkdown(checks: SimpleCheck[]): string {
   return json2md([{
     table: {
       headers: ['Repository', 'Check', 'Status', 'Conclusion'],
-      rows: checks.map(({ repo, name, status, conclusion, html_url }) => ({
-        Repository: repo,
+      rows: checks.map(({ repo, repo_url, name, status, conclusion, html_url }) => ({
+        Repository: `[${repo}](${repo_url})`,
         Check: `[${name}](${html_url})`,
         Status: status,
         Conclusion: conclusion === 'success' ? `✅ ${conclusion}` : `❌ ${conclusion}`
