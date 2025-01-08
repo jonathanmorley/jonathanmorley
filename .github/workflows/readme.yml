@@ -20,6 +20,8 @@ jobs:
         run: pnpm install
       - name: Run readme.ts
         run: node --experimental-transform-types ./src/readme.ts
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions[bot]'
