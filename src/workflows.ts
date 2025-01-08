@@ -1,8 +1,8 @@
 import { Octokit, type RestEndpointMethodTypes } from '@octokit/rest';
 import json2md from 'json2md';
-import { SimpleRepository } from './repositories';
+import { SimpleRepository } from './repositories.ts';
+import { Unpacked } from './types.ts';
 
-type Unpacked<T> = T extends (infer U)[] ? U : T;
 export type SimpleWorkflow = Pick<Unpacked<RestEndpointMethodTypes['actions']['listRepoWorkflows']['response']['data']['workflows']>, 'name' | 'state' | 'badge_url' | 'html_url'> & { repo: string, repo_url: string };
 
 export async function getWorkflows(octokit: Octokit, repository: SimpleRepository): Promise<SimpleWorkflow[]> {
