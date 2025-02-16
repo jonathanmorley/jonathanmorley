@@ -83,13 +83,7 @@
 | [jonathanmorley/aws-product-list](https://github.com/jonathanmorley/aws-product-list) | [deploy](https://github.com/jonathanmorley/aws-product-list/actions/runs/9326391928/job/25674857850) | completed | ❌ failure |
 | [jonathanmorley/aws-product-list](https://github.com/jonathanmorley/aws-product-list) | [deploy](https://github.com/jonathanmorley/aws-product-list/actions/runs/8903883966/job/24452318948) | completed | ❌ failure |
 | [jonathanmorley/aws-product-list](https://github.com/jonathanmorley/aws-product-list) | [deploy](https://github.com/jonathanmorley/aws-product-list/actions/runs/8502358191/job/23286430047) | completed | ❌ failure |
-| [jonathanmorley/jonathanmorley](https://github.com/jonathanmorley/jonathanmorley) | [update](https://github.com/jonathanmorley/jonathanmorley/actions/runs/13340080889/job/37263114401) | in_progress | ❌ null |
-| [jonathanmorley/jonathanmorley](https://github.com/jonathanmorley/jonathanmorley) | [Dependabot](https://github.com/jonathanmorley/jonathanmorley/actions/runs/13339075270/job/37260367563) | completed | ❌ failure |
-| [jonathanmorley/jonathanmorley](https://github.com/jonathanmorley/jonathanmorley) | [Dependabot](https://github.com/jonathanmorley/jonathanmorley/actions/runs/13338615665/job/37259055387) | completed | ❌ failure |
-| [jonathanmorley/jonathanmorley](https://github.com/jonathanmorley/jonathanmorley) | [Dependabot](https://github.com/jonathanmorley/jonathanmorley/actions/runs/13337828652/job/37256728057) | completed | ❌ failure |
-| [jonathanmorley/jonathanmorley](https://github.com/jonathanmorley/jonathanmorley) | [Dependabot](https://github.com/jonathanmorley/jonathanmorley/actions/runs/13337616508/job/37256146240) | completed | ❌ failure |
-| [jonathanmorley/jonathanmorley](https://github.com/jonathanmorley/jonathanmorley) | [Dependabot](https://github.com/jonathanmorley/jonathanmorley/actions/runs/13335632204/job/37250074225) | completed | ❌ failure |
-| [jonathanmorley/jonathanmorley](https://github.com/jonathanmorley/jonathanmorley) | [Dependabot](https://github.com/jonathanmorley/jonathanmorley/actions/runs/13334990506/job/37248104474) | completed | ❌ failure |
+| [jonathanmorley/jonathanmorley](https://github.com/jonathanmorley/jonathanmorley) | [update](https://github.com/jonathanmorley/jonathanmorley/actions/runs/13350207685/job/37285727516) | in_progress | ❌ null |
 | [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Dependabot](https://github.com/jonathanmorley/oktaws/actions/runs/13246765466/job/36975047517) | completed | ✅ success |
 | [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Dependabot](https://github.com/jonathanmorley/oktaws/actions/runs/13246600365/job/36974517216) | completed | ✅ success |
 | [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Dependabot](https://github.com/jonathanmorley/oktaws/actions/runs/13120661899/job/36605548023) | completed | ✅ success |
