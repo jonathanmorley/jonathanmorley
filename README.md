@@ -5,9 +5,6 @@
 <!-- checks-start -->
 | Repository | Check | Status | Conclusion |
 | ---------- | ----- | ------ | ---------- |
-| [jonathanmorley/advent-of-code](https://github.com/jonathanmorley/advent-of-code) | [verify (fmt --check)](https://github.com/jonathanmorley/advent-of-code/actions/runs/7872944817/job/21479249007) | completed | ❌ failure |
-| [jonathanmorley/advent-of-code](https://github.com/jonathanmorley/advent-of-code) | [verify (clippy --workspace)](https://github.com/jonathanmorley/advent-of-code/actions/runs/7872944817/job/21479248652) | completed | ❌ cancelled |
-| [jonathanmorley/advent-of-code](https://github.com/jonathanmorley/advent-of-code) | [verify (test --workspace)](https://github.com/jonathanmorley/advent-of-code/actions/runs/7872944817/job/21479248276) | completed | ❌ cancelled |
 | [jonathanmorley/asdf-pnpm](https://github.com/jonathanmorley/asdf-pnpm) | [plugin-test (pnpm v5, Node.js v12, macos-latest)](https://github.com/jonathanmorley/asdf-pnpm/actions/runs/13576097839/job/37952566154) | completed | ✅ success |
 | [jonathanmorley/asdf-pnpm](https://github.com/jonathanmorley/asdf-pnpm) | [plugin-test (pnpm v6, Node.js v22, macos-latest)](https://github.com/jonathanmorley/asdf-pnpm/actions/runs/13576097839/job/37952566152) | completed | ✅ success |
 | [jonathanmorley/asdf-pnpm](https://github.com/jonathanmorley/asdf-pnpm) | [plugin-test (pnpm v8, Node.js v16, macos-latest)](https://github.com/jonathanmorley/asdf-pnpm/actions/runs/13576097839/job/37952566150) | completed | ✅ success |
@@ -83,7 +80,7 @@
 | [jonathanmorley/aws-product-list](https://github.com/jonathanmorley/aws-product-list) | [deploy](https://github.com/jonathanmorley/aws-product-list/actions/runs/9326391928/job/25674857850) | completed | ❌ failure |
 | [jonathanmorley/aws-product-list](https://github.com/jonathanmorley/aws-product-list) | [deploy](https://github.com/jonathanmorley/aws-product-list/actions/runs/8903883966/job/24452318948) | completed | ❌ failure |
 | [jonathanmorley/aws-product-list](https://github.com/jonathanmorley/aws-product-list) | [deploy](https://github.com/jonathanmorley/aws-product-list/actions/runs/8502358191/job/23286430047) | completed | ❌ failure |
-| [jonathanmorley/jonathanmorley](https://github.com/jonathanmorley/jonathanmorley) | [update](https://github.com/jonathanmorley/jonathanmorley/actions/runs/14119651710/job/39557416421) | in_progress | ❌ null |
+| [jonathanmorley/jonathanmorley](https://github.com/jonathanmorley/jonathanmorley) | [update](https://github.com/jonathanmorley/jonathanmorley/actions/runs/14140496389/job/39620962732) | in_progress | ❌ null |
 | [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Dependabot](https://github.com/jonathanmorley/oktaws/actions/runs/14043740492/job/39319698835) | completed | ✅ success |
 | [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Dependabot](https://github.com/jonathanmorley/oktaws/actions/runs/14043399674/job/39318612922) | completed | ❌ failure |
 | [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Dependabot](https://github.com/jonathanmorley/oktaws/actions/runs/14043027247/job/39317431231) | completed | ❌ failure |
