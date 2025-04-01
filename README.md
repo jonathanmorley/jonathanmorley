@@ -80,7 +80,9 @@
 | [jonathanmorley/aws-product-list](https://github.com/jonathanmorley/aws-product-list) | [deploy](https://github.com/jonathanmorley/aws-product-list/actions/runs/9326391928/job/25674857850) | completed | ❌ failure |
 | [jonathanmorley/aws-product-list](https://github.com/jonathanmorley/aws-product-list) | [deploy](https://github.com/jonathanmorley/aws-product-list/actions/runs/8903883966/job/24452318948) | completed | ❌ failure |
 | [jonathanmorley/aws-product-list](https://github.com/jonathanmorley/aws-product-list) | [deploy](https://github.com/jonathanmorley/aws-product-list/actions/runs/8502358191/job/23286430047) | completed | ❌ failure |
-| [jonathanmorley/jonathanmorley](https://github.com/jonathanmorley/jonathanmorley) | [update](https://github.com/jonathanmorley/jonathanmorley/actions/runs/14161855167/job/39668527534) | in_progress | ❌ null |
+| [jonathanmorley/jonathanmorley](https://github.com/jonathanmorley/jonathanmorley) | [update](https://github.com/jonathanmorley/jonathanmorley/actions/runs/14184709563/job/39737855002) | in_progress | ❌ null |
+| [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Dependabot](https://github.com/jonathanmorley/oktaws/actions/runs/14177915401/job/39717111014) | completed | ✅ success |
+| [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Dependabot](https://github.com/jonathanmorley/oktaws/actions/runs/14177437702/job/39715623262) | completed | ❌ failure |
 | [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Dependabot](https://github.com/jonathanmorley/oktaws/actions/runs/14043740492/job/39319698835) | completed | ✅ success |
 | [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Dependabot](https://github.com/jonathanmorley/oktaws/actions/runs/14043399674/job/39318612922) | completed | ❌ failure |
 | [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Dependabot](https://github.com/jonathanmorley/oktaws/actions/runs/14043027247/job/39317431231) | completed | ❌ failure |
@@ -122,6 +124,7 @@
 | [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [build-local-artifacts (aarch64-pc-windows-msvc)](https://github.com/jonathanmorley/oktaws/actions/runs/12586057579/job/35079167696) | completed | ✅ success |
 | [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [build-local-artifacts (aarch64-apple-darwin)](https://github.com/jonathanmorley/oktaws/actions/runs/12586057579/job/35079167427) | completed | ✅ success |
 | [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [plan](https://github.com/jonathanmorley/oktaws/actions/runs/12586057579/job/35079147451) | completed | ✅ success |
+| [jonathanmorley/repository-config-testbed](https://github.com/jonathanmorley/repository-config-testbed) | [Dependabot](https://github.com/jonathanmorley/repository-config-testbed/actions/runs/14178733228/job/39719731544) | completed | ❌ failure |
 | [jonathanmorley/repository-config-testbed](https://github.com/jonathanmorley/repository-config-testbed) | [test](https://github.com/jonathanmorley/repository-config-testbed/actions/runs/14118419733/job/39553879885) | completed | ❌ failure |
 
 <!-- checks-end -->
