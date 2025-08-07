@@ -77,18 +77,20 @@
 | [jonathanmorley/asdf-pnpm](https://github.com/jonathanmorley/asdf-pnpm) | [plugin-test (pnpm v4, Node.js v14, ubuntu-latest)](https://github.com/jonathanmorley/asdf-pnpm/actions/runs/15736622674/job/44350978245) | completed | ✅ success |
 | [jonathanmorley/asdf-pnpm](https://github.com/jonathanmorley/asdf-pnpm) | [shfmt](https://github.com/jonathanmorley/asdf-pnpm/actions/runs/15736622674/job/44350977960) | completed | ✅ success |
 | [jonathanmorley/asdf-pnpm](https://github.com/jonathanmorley/asdf-pnpm) | [lint](https://github.com/jonathanmorley/asdf-pnpm/actions/runs/15736622674/job/44350977954) | completed | ✅ success |
+| [jonathanmorley/gha-testing](https://github.com/jonathanmorley/gha-testing) | [Dependabot](https://github.com/jonathanmorley/gha-testing/actions/runs/16784944531/job/47532986952) | completed | ❌ failure |
 | [jonathanmorley/gha-testing](https://github.com/jonathanmorley/gha-testing) | [Dependabot](https://github.com/jonathanmorley/gha-testing/actions/runs/16436195401/job/46446554528) | completed | ❌ failure |
 | [jonathanmorley/gha-testing](https://github.com/jonathanmorley/gha-testing) | [Dependabot](https://github.com/jonathanmorley/gha-testing/actions/runs/15612836281/job/43977863888) | completed | ❌ failure |
 | [jonathanmorley/gha-testing](https://github.com/jonathanmorley/gha-testing) | [Dependabot](https://github.com/jonathanmorley/gha-testing/actions/runs/14762629823/job/41446711579) | completed | ❌ failure |
 | [jonathanmorley/gha-testing](https://github.com/jonathanmorley/gha-testing) | [Dependabot](https://github.com/jonathanmorley/gha-testing/actions/runs/14407222728/job/40406572036) | completed | ❌ failure |
 | [jonathanmorley/gha-testing](https://github.com/jonathanmorley/gha-testing) | [ci / fmt,build,lint,unit-test,integration-test  on ubuntu-latest](https://github.com/jonathanmorley/gha-testing/actions/runs/14337390399/job/40187877152) | completed | ✅ success |
 | [jonathanmorley/gha-testing](https://github.com/jonathanmorley/gha-testing) | [ci / plan](https://github.com/jonathanmorley/gha-testing/actions/runs/14337390399/job/40187867563) | completed | ✅ success |
-| [jonathanmorley/jonathanmorley](https://github.com/jonathanmorley/jonathanmorley) | [update](https://github.com/jonathanmorley/jonathanmorley/actions/runs/16764958073/job/47468179099) | queued | ❌ null |
+| [jonathanmorley/jonathanmorley](https://github.com/jonathanmorley/jonathanmorley) | [update](https://github.com/jonathanmorley/jonathanmorley/actions/runs/16792509539/job/47556741662) | in_progress | ❌ null |
 | [jonathanmorley/nix-darwin](https://github.com/jonathanmorley/nix-darwin) | [Deploy](https://github.com/jonathanmorley/nix-darwin/actions/runs/14626516004/job/41039292634) | completed | ❌ failure |
 | [jonathanmorley/nix-darwin](https://github.com/jonathanmorley/nix-darwin) | [install-flake](https://github.com/jonathanmorley/nix-darwin/actions/runs/14626516007/job/41039187383) | completed | ✅ success |
 | [jonathanmorley/nix-darwin](https://github.com/jonathanmorley/nix-darwin) | [Build](https://github.com/jonathanmorley/nix-darwin/actions/runs/14626516004/job/41039187381) | completed | ✅ success |
 | [jonathanmorley/nix-darwin](https://github.com/jonathanmorley/nix-darwin) | [test-stable](https://github.com/jonathanmorley/nix-darwin/actions/runs/14626516007/job/41039187377) | completed | ✅ success |
 | [jonathanmorley/nix-darwin](https://github.com/jonathanmorley/nix-darwin) | [install-against-stable](https://github.com/jonathanmorley/nix-darwin/actions/runs/14626516007/job/41039187369) | completed | ✅ success |
+| [jonathanmorley/nixpkgs](https://github.com/jonathanmorley/nixpkgs) | [nix-flake-update](https://github.com/jonathanmorley/nixpkgs/actions/runs/16777341686/job/47506488727) | completed | ✅ success |
 | [jonathanmorley/nixpkgs](https://github.com/jonathanmorley/nixpkgs) | [nix-flake-update](https://github.com/jonathanmorley/nixpkgs/actions/runs/16757265563/job/47443060958) | completed | ❌ failure |
 
 <!-- checks-end -->
