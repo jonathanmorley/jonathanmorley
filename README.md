@@ -84,7 +84,7 @@
 | [jonathanmorley/gha-testing](https://github.com/jonathanmorley/gha-testing) | [Dependabot](https://github.com/jonathanmorley/gha-testing/actions/runs/14407222728/job/40406572036) | completed | ❌ failure |
 | [jonathanmorley/gha-testing](https://github.com/jonathanmorley/gha-testing) | [ci / fmt,build,lint,unit-test,integration-test  on ubuntu-latest](https://github.com/jonathanmorley/gha-testing/actions/runs/14337390399/job/40187877152) | completed | ✅ success |
 | [jonathanmorley/gha-testing](https://github.com/jonathanmorley/gha-testing) | [ci / plan](https://github.com/jonathanmorley/gha-testing/actions/runs/14337390399/job/40187867563) | completed | ✅ success |
-| [jonathanmorley/jonathanmorley](https://github.com/jonathanmorley/jonathanmorley) | [update](https://github.com/jonathanmorley/jonathanmorley/actions/runs/17196262516/job/48778740647) | in_progress | ❌ null |
+| [jonathanmorley/jonathanmorley](https://github.com/jonathanmorley/jonathanmorley) | [update](https://github.com/jonathanmorley/jonathanmorley/actions/runs/17224826518/job/48867358883) | in_progress | ❌ null |
 | [jonathanmorley/nix-darwin](https://github.com/jonathanmorley/nix-darwin) | [Deploy](https://github.com/jonathanmorley/nix-darwin/actions/runs/14626516004/job/41039292634) | completed | ❌ failure |
 | [jonathanmorley/nix-darwin](https://github.com/jonathanmorley/nix-darwin) | [install-flake](https://github.com/jonathanmorley/nix-darwin/actions/runs/14626516007/job/41039187383) | completed | ✅ success |
 | [jonathanmorley/nix-darwin](https://github.com/jonathanmorley/nix-darwin) | [Build](https://github.com/jonathanmorley/nix-darwin/actions/runs/14626516004/job/41039187381) | completed | ✅ success |
@@ -95,6 +95,9 @@
 | [jonathanmorley/nixpkgs](https://github.com/jonathanmorley/nixpkgs) | [nix-flake-update](https://github.com/jonathanmorley/nixpkgs/actions/runs/16855876415/job/47748724495) | completed | ✅ success |
 | [jonathanmorley/nixpkgs](https://github.com/jonathanmorley/nixpkgs) | [nix-flake-update](https://github.com/jonathanmorley/nixpkgs/actions/runs/16777341686/job/47506488727) | completed | ✅ success |
 | [jonathanmorley/nixpkgs](https://github.com/jonathanmorley/nixpkgs) | [nix-flake-update](https://github.com/jonathanmorley/nixpkgs/actions/runs/16757265563/job/47443060958) | completed | ❌ failure |
+| [jonathanmorley/notes](https://github.com/jonathanmorley/notes) | [Publish Logseq graph](https://github.com/jonathanmorley/notes/actions/runs/17216475661/job/48841218639) | completed | ❌ failure |
+| [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Dependabot](https://github.com/jonathanmorley/oktaws/actions/runs/17218428901/job/48847708744) | completed | ✅ success |
+| [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Dependabot](https://github.com/jonathanmorley/oktaws/actions/runs/17217894617/job/48845936819) | completed | ✅ success |
 
 <!-- checks-end -->
 
@@ -130,6 +133,7 @@
 | [jonathanmorley/nixpkgs](https://github.com/jonathanmorley/nixpkgs) | [![CI](https://github.com/jonathanmorley/nixpkgs/workflows/CI/badge.svg)](https://github.com/jonathanmorley/nixpkgs/blob/main/.github/workflows/ci-determinate.yml) | ✅ active |
 | [jonathanmorley/nixpkgs](https://github.com/jonathanmorley/nixpkgs) | [![CI](https://github.com/jonathanmorley/nixpkgs/workflows/CI/badge.svg)](https://github.com/jonathanmorley/nixpkgs/blob/main/.github/workflows/ci.yml) | ✅ active |
 | [jonathanmorley/nixpkgs](https://github.com/jonathanmorley/nixpkgs) | [![Flake.lock: update Nix dependencies](https://github.com/jonathanmorley/nixpkgs/workflows/Flake.lock:%20update%20Nix%20dependencies/badge.svg)](https://github.com/jonathanmorley/nixpkgs/blob/main/.github/workflows/flake-update.yml) | ✅ active |
+| [jonathanmorley/notes](https://github.com/jonathanmorley/notes) | [![.github/workflows/publish.yml](https://github.com/jonathanmorley/notes/workflows/.github/workflows/publish.yml/badge.svg)](https://github.com/jonathanmorley/notes/blob/main/.github/workflows/publish.yml) | ✅ active |
 | [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [![Release](https://github.com/jonathanmorley/oktaws/workflows/Release/badge.svg)](https://github.com/jonathanmorley/oktaws/blob/master/.github/workflows/release.yml) | ✅ active |
 | [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [![Dependabot Updates](https://github.com/jonathanmorley/oktaws/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/jonathanmorley/oktaws/actions/workflows/dependabot/dependabot-updates) | ✅ active |
 | [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [![PR Verification](https://github.com/jonathanmorley/oktaws/workflows/PR%20Verification/badge.svg)](https://github.com/jonathanmorley/oktaws/blob/master/.github/workflows/pull.yml) | ✅ active |
