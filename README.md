@@ -5,11 +5,9 @@
 <!-- checks-start -->
 | Repository | Check | Status | Conclusion |
 | ---------- | ----- | ------ | ---------- |
-| [jonathanmorley/asdf-pnpm](https://github.com/jonathanmorley/asdf-pnpm) | [nix flake check (aarch64-linux)](https://github.com/jonathanmorley/asdf-pnpm/actions/runs/20313119456/job/58349503826) | completed | ✅ success |
-| [jonathanmorley/asdf-pnpm](https://github.com/jonathanmorley/asdf-pnpm) | [nix flake check (x86_64-linux)](https://github.com/jonathanmorley/asdf-pnpm/actions/runs/20313119456/job/58349503819) | completed | ✅ success |
-| [jonathanmorley/asdf-pnpm](https://github.com/jonathanmorley/asdf-pnpm) | [nix flake check (aarch64-darwin)](https://github.com/jonathanmorley/asdf-pnpm/actions/runs/20313119456/job/58349503815) | completed | ✅ success |
-| [jonathanmorley/gha-testing](https://github.com/jonathanmorley/gha-testing) | [Dependabot](https://github.com/jonathanmorley/gha-testing/actions/runs/20313010979/job/58349130320) | completed | ❌ failure |
-| [jonathanmorley/gha-testing](https://github.com/jonathanmorley/gha-testing) | [Dependabot](https://github.com/jonathanmorley/gha-testing/actions/runs/20312986906/job/58349045334) | completed | ❌ failure |
+| [jonathanmorley/asdf-pnpm](https://github.com/jonathanmorley/asdf-pnpm) | [nix flake check (aarch64-darwin)](https://github.com/jonathanmorley/asdf-pnpm/actions/runs/20313811719/job/58351896032) | completed | ✅ success |
+| [jonathanmorley/asdf-pnpm](https://github.com/jonathanmorley/asdf-pnpm) | [nix flake check (x86_64-linux)](https://github.com/jonathanmorley/asdf-pnpm/actions/runs/20313811719/job/58351896016) | completed | ✅ success |
+| [jonathanmorley/asdf-pnpm](https://github.com/jonathanmorley/asdf-pnpm) | [nix flake check (aarch64-linux)](https://github.com/jonathanmorley/asdf-pnpm/actions/runs/20313811719/job/58351896004) | completed | ✅ success |
 | [jonathanmorley/gha-testing](https://github.com/jonathanmorley/gha-testing) | [Dependabot](https://github.com/jonathanmorley/gha-testing/actions/runs/20312986639/job/58349044509) | completed | ❌ failure |
 | [jonathanmorley/gha-testing](https://github.com/jonathanmorley/gha-testing) | [ci / fmt,build,lint,unit-test,integration-test  on ubuntu-latest](https://github.com/jonathanmorley/gha-testing/actions/runs/20312976079/job/58349021391) | completed | ✅ success |
 | [jonathanmorley/gha-testing](https://github.com/jonathanmorley/gha-testing) | [Dependabot](https://github.com/jonathanmorley/gha-testing/actions/runs/20312979133/job/58349019423) | completed | ❌ failure |
@@ -18,25 +16,14 @@
 | [jonathanmorley/gha-testing](https://github.com/jonathanmorley/gha-testing) | [ci / plan](https://github.com/jonathanmorley/gha-testing/actions/runs/20312976079/job/58349007701) | completed | ✅ success |
 | [jonathanmorley/hashlock](https://github.com/jonathanmorley/hashlock) | [Upload Results](https://github.com/jonathanmorley/hashlock/actions/runs/20295779973/job/58289138514) | completed | ✅ success |
 | [jonathanmorley/hashlock](https://github.com/jonathanmorley/hashlock) | [Analyze (javascript-typescript)](https://github.com/jonathanmorley/hashlock/actions/runs/20295779973/job/58289062277) | completed | ✅ success |
-| [jonathanmorley/jonathanmorley](https://github.com/jonathanmorley/jonathanmorley) | [update](https://github.com/jonathanmorley/jonathanmorley/actions/runs/20313735892/job/58351629142) | in_progress | ❌ null |
-| [jonathanmorley/nexus-rs](https://github.com/jonathanmorley/nexus-rs) | [Dependabot](https://github.com/jonathanmorley/nexus-rs/actions/runs/20277321499/job/58229609056) | completed | ❌ failure |
-| [jonathanmorley/nexus-rs](https://github.com/jonathanmorley/nexus-rs) | [Dependabot](https://github.com/jonathanmorley/nexus-rs/actions/runs/20277320248/job/58229608986) | completed | ❌ failure |
+| [jonathanmorley/jonathanmorley](https://github.com/jonathanmorley/jonathanmorley) | [update](https://github.com/jonathanmorley/jonathanmorley/actions/runs/20322335095/job/58380564414) | in_progress | ❌ null |
 | [jonathanmorley/nix-darwin](https://github.com/jonathanmorley/nix-darwin) | [Deploy](https://github.com/jonathanmorley/nix-darwin/actions/runs/14626516004/job/41039292634) | completed | ❌ failure |
 | [jonathanmorley/nix-darwin](https://github.com/jonathanmorley/nix-darwin) | [install-flake](https://github.com/jonathanmorley/nix-darwin/actions/runs/14626516007/job/41039187383) | completed | ✅ success |
 | [jonathanmorley/nix-darwin](https://github.com/jonathanmorley/nix-darwin) | [Build](https://github.com/jonathanmorley/nix-darwin/actions/runs/14626516004/job/41039187381) | completed | ✅ success |
 | [jonathanmorley/nix-darwin](https://github.com/jonathanmorley/nix-darwin) | [test-stable](https://github.com/jonathanmorley/nix-darwin/actions/runs/14626516007/job/41039187377) | completed | ✅ success |
 | [jonathanmorley/nix-darwin](https://github.com/jonathanmorley/nix-darwin) | [install-against-stable](https://github.com/jonathanmorley/nix-darwin/actions/runs/14626516007/job/41039187369) | completed | ✅ success |
-| [jonathanmorley/nixpkgs](https://github.com/jonathanmorley/nixpkgs) | [build (macos-latest, aarch64-darwin)](https://github.com/jonathanmorley/nixpkgs/actions/runs/20282549995/job/58248116944) | completed | ✅ success |
-| [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Dependabot](https://github.com/jonathanmorley/oktaws/actions/runs/18849462957/job/53782157413) | completed | ✅ success |
-| [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Dependabot](https://github.com/jonathanmorley/oktaws/actions/runs/18849453342/job/53782127989) | completed | ✅ success |
-| [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Dependabot](https://github.com/jonathanmorley/oktaws/actions/runs/18659332328/job/53195972411) | completed | ✅ success |
-| [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Dependabot](https://github.com/jonathanmorley/oktaws/actions/runs/18659311830/job/53195909522) | completed | ✅ success |
-| [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Dependabot](https://github.com/jonathanmorley/oktaws/actions/runs/18473022858/job/52631218321) | completed | ✅ success |
-| [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Dependabot](https://github.com/jonathanmorley/oktaws/actions/runs/18473011631/job/52631182499) | completed | ❌ failure |
-| [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Dependabot](https://github.com/jonathanmorley/oktaws/actions/runs/18288544146/job/52069852471) | completed | ✅ success |
-| [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Dependabot](https://github.com/jonathanmorley/oktaws/actions/runs/18288531843/job/52069811897) | completed | ✅ success |
-| [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Dependabot](https://github.com/jonathanmorley/oktaws/actions/runs/18104776188/job/51516542818) | completed | ✅ success |
-| [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Dependabot](https://github.com/jonathanmorley/oktaws/actions/runs/18104769298/job/51516517639) | completed | ✅ success |
+| [jonathanmorley/nixpkgs](https://github.com/jonathanmorley/nixpkgs) | [Analyze (actions)](https://github.com/jonathanmorley/nixpkgs/actions/runs/20316539670/job/58361552056) | completed | ✅ success |
+| [jonathanmorley/nixpkgs](https://github.com/jonathanmorley/nixpkgs) | [nix (macos-latest, aarch64-darwin)](https://github.com/jonathanmorley/nixpkgs/actions/runs/20316539810/job/58361551141) | completed | ❌ failure |
 
 <!-- checks-end -->
 
@@ -65,11 +52,11 @@
 | [jonathanmorley/hashlock](https://github.com/jonathanmorley/hashlock) | [![CodeQL](https://github.com/jonathanmorley/hashlock/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/jonathanmorley/hashlock/actions/workflows/github-code-scanning/codeql) | ✅ active |
 | [jonathanmorley/jonathanmorley](https://github.com/jonathanmorley/jonathanmorley) | [![Update README](https://github.com/jonathanmorley/jonathanmorley/workflows/Update%20README/badge.svg)](https://github.com/jonathanmorley/jonathanmorley/blob/master/.github/workflows/readme.yml) | ✅ active |
 | [jonathanmorley/jonathanmorley](https://github.com/jonathanmorley/jonathanmorley) | [![Dependabot Updates](https://github.com/jonathanmorley/jonathanmorley/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/jonathanmorley/jonathanmorley/actions/workflows/dependabot/dependabot-updates) | ✅ active |
-| [jonathanmorley/nexus-rs](https://github.com/jonathanmorley/nexus-rs) | [![Dependabot Updates](https://github.com/jonathanmorley/nexus-rs/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/jonathanmorley/nexus-rs/actions/workflows/dependabot/dependabot-updates) | ✅ active |
 | [jonathanmorley/nix-darwin](https://github.com/jonathanmorley/nix-darwin) | [![Test](https://github.com/jonathanmorley/nix-darwin/workflows/Test/badge.svg)](https://github.com/jonathanmorley/nix-darwin/blob/master/.github/workflows/test.yml) | ✅ active |
 | [jonathanmorley/nix-darwin](https://github.com/jonathanmorley/nix-darwin) | [![Update website](https://github.com/jonathanmorley/nix-darwin/workflows/Update%20website/badge.svg)](https://github.com/jonathanmorley/nix-darwin/blob/master/.github/workflows/update-website.yml) | ✅ active |
 | [jonathanmorley/nixpkgs](https://github.com/jonathanmorley/nixpkgs) | [![CI](https://github.com/jonathanmorley/nixpkgs/workflows/CI/badge.svg)](https://github.com/jonathanmorley/nixpkgs/blob/main/.github/workflows/ci-determinate.yml) | ✅ active |
 | [jonathanmorley/nixpkgs](https://github.com/jonathanmorley/nixpkgs) | [![CI](https://github.com/jonathanmorley/nixpkgs/workflows/CI/badge.svg)](https://github.com/jonathanmorley/nixpkgs/blob/main/.github/workflows/ci.yml) | ✅ active |
+| [jonathanmorley/nixpkgs](https://github.com/jonathanmorley/nixpkgs) | [![CodeQL](https://github.com/jonathanmorley/nixpkgs/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/jonathanmorley/nixpkgs/actions/workflows/github-code-scanning/codeql) | ✅ active |
 | [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [![Release](https://github.com/jonathanmorley/oktaws/workflows/Release/badge.svg)](https://github.com/jonathanmorley/oktaws/blob/master/.github/workflows/release.yml) | ✅ active |
 | [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [![Dependabot Updates](https://github.com/jonathanmorley/oktaws/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/jonathanmorley/oktaws/actions/workflows/dependabot/dependabot-updates) | ✅ active |
 | [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [![PR Verification](https://github.com/jonathanmorley/oktaws/workflows/PR%20Verification/badge.svg)](https://github.com/jonathanmorley/oktaws/blob/master/.github/workflows/pull.yml) | ✅ active |
