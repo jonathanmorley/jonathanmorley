@@ -16,10 +16,10 @@ importers:
         version: 2.0.1
     devDependencies:
       '@types/json2md':
-        specifier: ^1.5.4
+        specifier: 1.5.4
         version: 1.5.4
       '@types/node':
-        specifier: ^24.0.0
+        specifier: 24.10.4
         version: 24.10.4
 
 packages:
