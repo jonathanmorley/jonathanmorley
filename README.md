@@ -16,12 +16,13 @@
 | [jonathanmorley/gha-testing](https://github.com/jonathanmorley/gha-testing) | [ci / fmt,build,lint,unit-test,integration-test  on ubuntu-latest](https://github.com/jonathanmorley/gha-testing/actions/runs/21750999382/job/62748734929) | completed | ✅ success |
 | [jonathanmorley/gha-testing](https://github.com/jonathanmorley/gha-testing) | [ci / plan](https://github.com/jonathanmorley/gha-testing/actions/runs/21750999382/job/62748651606) | completed | ✅ success |
 | [jonathanmorley/hashlock](https://github.com/jonathanmorley/hashlock) | [Analyze (javascript-typescript)](https://github.com/jonathanmorley/hashlock/actions/runs/21754026873/job/62759226099) | completed | ✅ success |
-| [jonathanmorley/jonathanmorley](https://github.com/jonathanmorley/jonathanmorley) | [update](https://github.com/jonathanmorley/jonathanmorley/actions/runs/21771530357/job/62819928582) | in_progress | ❌ null |
+| [jonathanmorley/jonathanmorley](https://github.com/jonathanmorley/jonathanmorley) | [update](https://github.com/jonathanmorley/jonathanmorley/actions/runs/21790420044/job/62868757677) | in_progress | ❌ null |
 | [jonathanmorley/nix-darwin](https://github.com/jonathanmorley/nix-darwin) | [Deploy](https://github.com/jonathanmorley/nix-darwin/actions/runs/14626516004/job/41039292634) | completed | ❌ failure |
 | [jonathanmorley/nix-darwin](https://github.com/jonathanmorley/nix-darwin) | [install-flake](https://github.com/jonathanmorley/nix-darwin/actions/runs/14626516007/job/41039187383) | completed | ✅ success |
 | [jonathanmorley/nix-darwin](https://github.com/jonathanmorley/nix-darwin) | [Build](https://github.com/jonathanmorley/nix-darwin/actions/runs/14626516004/job/41039187381) | completed | ✅ success |
 | [jonathanmorley/nix-darwin](https://github.com/jonathanmorley/nix-darwin) | [test-stable](https://github.com/jonathanmorley/nix-darwin/actions/runs/14626516007/job/41039187377) | completed | ✅ success |
 | [jonathanmorley/nix-darwin](https://github.com/jonathanmorley/nix-darwin) | [install-against-stable](https://github.com/jonathanmorley/nix-darwin/actions/runs/14626516007/job/41039187369) | completed | ✅ success |
+| [jonathanmorley/nixpkgs](https://github.com/jonathanmorley/nixpkgs) | [Analyze (actions)](https://github.com/jonathanmorley/nixpkgs/actions/runs/21774467949/job/62828490515) | completed | ✅ success |
 | [jonathanmorley/nixpkgs](https://github.com/jonathanmorley/nixpkgs) | [Analyze (actions)](https://github.com/jonathanmorley/nixpkgs/actions/runs/21680439852/job/62513012457) | completed | ✅ success |
 | [jonathanmorley/nixpkgs](https://github.com/jonathanmorley/nixpkgs) | [nix (macos-latest, aarch64-darwin)](https://github.com/jonathanmorley/nixpkgs/actions/runs/21680440370/job/62513012389) | completed | ✅ success |
 | [jonathanmorley/okra](https://github.com/jonathanmorley/okra) | [Dependabot](https://github.com/jonathanmorley/okra/actions/runs/20607877165/job/59187111975) | completed | ❌ failure |
