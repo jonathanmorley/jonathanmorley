@@ -18,21 +18,24 @@
 | [jonathanmorley/aws-product-list](https://github.com/jonathanmorley/aws-product-list) | [deploy](https://github.com/jonathanmorley/aws-product-list/actions/runs/20630179504/job/59246943654) | completed | ✅ success |
 | [jonathanmorley/gha-testing](https://github.com/jonathanmorley/gha-testing) | [ci / fmt,build,lint,unit-test,integration-test  on ubuntu-latest](https://github.com/jonathanmorley/gha-testing/actions/runs/22588156585/job/65438765583) | completed | ✅ success |
 | [jonathanmorley/gha-testing](https://github.com/jonathanmorley/gha-testing) | [ci / plan](https://github.com/jonathanmorley/gha-testing/actions/runs/22588156585/job/65438752339) | completed | ✅ success |
-| [jonathanmorley/hashlock](https://github.com/jonathanmorley/hashlock) | [Analyze (javascript-typescript)](https://github.com/jonathanmorley/hashlock/actions/runs/22558513530/job/65340335179) | completed | ✅ success |
-| [jonathanmorley/jonathanmorley](https://github.com/jonathanmorley/jonathanmorley) | [update](https://github.com/jonathanmorley/jonathanmorley/actions/runs/22603802008/job/65491395744) | in_progress | ❌ null |
+| [jonathanmorley/hashlock](https://github.com/jonathanmorley/hashlock) | [Analyze (javascript-typescript)](https://github.com/jonathanmorley/hashlock/actions/runs/22617225462/job/65533022265) | completed | ✅ success |
+| [jonathanmorley/jonathanmorley](https://github.com/jonathanmorley/jonathanmorley) | [update](https://github.com/jonathanmorley/jonathanmorley/actions/runs/22650578929/job/65648829200) | in_progress | ❌ null |
 | [jonathanmorley/nix-darwin](https://github.com/jonathanmorley/nix-darwin) | [Deploy](https://github.com/jonathanmorley/nix-darwin/actions/runs/14626516004/job/41039292634) | completed | ❌ failure |
 | [jonathanmorley/nix-darwin](https://github.com/jonathanmorley/nix-darwin) | [install-flake](https://github.com/jonathanmorley/nix-darwin/actions/runs/14626516007/job/41039187383) | completed | ✅ success |
 | [jonathanmorley/nix-darwin](https://github.com/jonathanmorley/nix-darwin) | [Build](https://github.com/jonathanmorley/nix-darwin/actions/runs/14626516004/job/41039187381) | completed | ✅ success |
 | [jonathanmorley/nix-darwin](https://github.com/jonathanmorley/nix-darwin) | [test-stable](https://github.com/jonathanmorley/nix-darwin/actions/runs/14626516007/job/41039187377) | completed | ✅ success |
 | [jonathanmorley/nix-darwin](https://github.com/jonathanmorley/nix-darwin) | [install-against-stable](https://github.com/jonathanmorley/nix-darwin/actions/runs/14626516007/job/41039187369) | completed | ✅ success |
-| [jonathanmorley/nixpkgs](https://github.com/jonathanmorley/nixpkgs) | [nix (macos-latest, aarch64-darwin)](https://github.com/jonathanmorley/nixpkgs/actions/runs/22558010931/job/65338930219) | completed | ✅ success |
-| [jonathanmorley/nixpkgs](https://github.com/jonathanmorley/nixpkgs) | [Analyze (actions)](https://github.com/jonathanmorley/nixpkgs/actions/runs/22558010657/job/65338930211) | completed | ✅ success |
+| [jonathanmorley/nixpkgs](https://github.com/jonathanmorley/nixpkgs) | [nix (macos-latest, aarch64-darwin)](https://github.com/jonathanmorley/nixpkgs/actions/runs/22642390499/job/65621558895) | completed | ✅ success |
+| [jonathanmorley/nixpkgs](https://github.com/jonathanmorley/nixpkgs) | [Analyze (actions)](https://github.com/jonathanmorley/nixpkgs/actions/runs/22642390035/job/65621558785) | completed | ✅ success |
 | [jonathanmorley/okra](https://github.com/jonathanmorley/okra) | [Dependabot](https://github.com/jonathanmorley/okra/actions/runs/20607877165/job/59187111975) | completed | ❌ failure |
 | [jonathanmorley/okra](https://github.com/jonathanmorley/okra) | [Dependabot](https://github.com/jonathanmorley/okra/actions/runs/20607876980/job/59187111707) | completed | ❌ failure |
 | [jonathanmorley/okra](https://github.com/jonathanmorley/okra) | [Dependabot](https://github.com/jonathanmorley/okra/actions/runs/20607876989/job/59187111677) | completed | ❌ failure |
 | [jonathanmorley/okra](https://github.com/jonathanmorley/okra) | [Dependabot](https://github.com/jonathanmorley/okra/actions/runs/20607876611/job/59187110849) | completed | ❌ failure |
 | [jonathanmorley/okra](https://github.com/jonathanmorley/okra) | [Dependabot](https://github.com/jonathanmorley/okra/actions/runs/20607876657/job/59187110844) | completed | ❌ failure |
 | [jonathanmorley/okra](https://github.com/jonathanmorley/okra) | [Dependabot](https://github.com/jonathanmorley/okra/actions/runs/20607876308/job/59187110213) | completed | ❌ failure |
+| [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Dependabot](https://github.com/jonathanmorley/oktaws/actions/runs/22641428956/job/65618223816) | completed | ❌ failure |
+| [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Analyze (rust)](https://github.com/jonathanmorley/oktaws/actions/runs/22630701424/job/65579666710) | completed | ✅ success |
+| [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Analyze (actions)](https://github.com/jonathanmorley/oktaws/actions/runs/22630701424/job/65579666673) | completed | ✅ success |
 | [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Analyze (rust)](https://github.com/jonathanmorley/oktaws/actions/runs/22599874920/job/65479058185) | completed | ✅ success |
 | [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Analyze (actions)](https://github.com/jonathanmorley/oktaws/actions/runs/22599874920/job/65479058174) | completed | ✅ success |
 | [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Scorecard analysis](https://github.com/jonathanmorley/oktaws/actions/runs/22599875342/job/65479005382) | completed | ✅ success |
