@@ -38,11 +38,12 @@
 | [jonathanmorley/cargo-cook](https://github.com/jonathanmorley/cargo-cook) | [Dependabot](https://github.com/jonathanmorley/cargo-cook/actions/runs/26662947480/job/78589751588) | completed | ✅ success |
 | [jonathanmorley/cargo-cook](https://github.com/jonathanmorley/cargo-cook) | [Dependabot](https://github.com/jonathanmorley/cargo-cook/actions/runs/25563964795/job/75042484602) | completed | ✅ success |
 | [jonathanmorley/cargo-cook](https://github.com/jonathanmorley/cargo-cook) | [Dependabot](https://github.com/jonathanmorley/cargo-cook/actions/runs/23354671285/job/67942345224) | completed | ✅ success |
-| [jonathanmorley/gha-testing](https://github.com/jonathanmorley/gha-testing) | [ci / fmt,build,lint,unit-test,integration-test  on ubuntu-latest](https://github.com/jonathanmorley/gha-testing/actions/runs/27800592104/job/82269838022) | completed | ✅ success |
-| [jonathanmorley/gha-testing](https://github.com/jonathanmorley/gha-testing) | [Dependabot](https://github.com/jonathanmorley/gha-testing/actions/runs/27800596690/job/82269836954) | completed | ❌ failure |
-| [jonathanmorley/gha-testing](https://github.com/jonathanmorley/gha-testing) | [ci / plan](https://github.com/jonathanmorley/gha-testing/actions/runs/27800592104/job/82269822210) | completed | ✅ success |
+| [jonathanmorley/gha-testing](https://github.com/jonathanmorley/gha-testing) | [Dependabot](https://github.com/jonathanmorley/gha-testing/actions/runs/27821030480/job/82333907844) | completed | ❌ failure |
+| [jonathanmorley/gha-testing](https://github.com/jonathanmorley/gha-testing) | [ci / fmt,build,lint,unit-test,integration-test  on ubuntu-latest](https://github.com/jonathanmorley/gha-testing/actions/runs/27821016578/job/82333875696) | completed | ✅ success |
+| [jonathanmorley/gha-testing](https://github.com/jonathanmorley/gha-testing) | [ci / plan](https://github.com/jonathanmorley/gha-testing/actions/runs/27821016578/job/82333859359) | completed | ✅ success |
+| [jonathanmorley/hashlock](https://github.com/jonathanmorley/hashlock) | [Analyze (javascript-typescript)](https://github.com/jonathanmorley/hashlock/actions/runs/27810477694/job/82299407238) | completed | ✅ success |
 | [jonathanmorley/hashlock](https://github.com/jonathanmorley/hashlock) | [Analyze (javascript-typescript)](https://github.com/jonathanmorley/hashlock/actions/runs/27527084426/job/81356561662) | completed | ✅ success |
-| [jonathanmorley/jonathanmorley](https://github.com/jonathanmorley/jonathanmorley) | [update](https://github.com/jonathanmorley/jonathanmorley/actions/runs/27803654255/job/82279001676) | in_progress | ❌ null |
+| [jonathanmorley/jonathanmorley](https://github.com/jonathanmorley/jonathanmorley) | [update](https://github.com/jonathanmorley/jonathanmorley/actions/runs/27857654949/job/82447978092) | in_progress | ❌ null |
 | [jonathanmorley/nixpkgs](https://github.com/jonathanmorley/nixpkgs) | [nix](https://github.com/jonathanmorley/nixpkgs/actions/runs/27521537041/job/81340313933) | completed | ❌ skipped |
 | [jonathanmorley/nixpkgs](https://github.com/jonathanmorley/nixpkgs) | [format](https://github.com/jonathanmorley/nixpkgs/actions/runs/27521537041/job/81340297665) | completed | ❌ skipped |
 | [jonathanmorley/nixpkgs](https://github.com/jonathanmorley/nixpkgs) | [Analyze (actions)](https://github.com/jonathanmorley/nixpkgs/actions/runs/27521536706/job/81340297611) | completed | ✅ success |
@@ -58,6 +59,7 @@
 | [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Analyze (rust)](https://github.com/jonathanmorley/oktaws/actions/runs/27520293332/job/81336754109) | completed | ✅ success |
 | [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Analyze (actions)](https://github.com/jonathanmorley/oktaws/actions/runs/27520293332/job/81336754097) | completed | ✅ success |
 | [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Scorecard analysis](https://github.com/jonathanmorley/oktaws/actions/runs/27520293831/job/81336753893) | completed | ✅ success |
+| [jonathanmorley/peoples-gas-lib](https://github.com/jonathanmorley/peoples-gas-lib) | [Dependabot](https://github.com/jonathanmorley/peoples-gas-lib/actions/runs/27854278943/job/82438736723) | completed | ✅ success |
 | [jonathanmorley/peoples-gas-lib](https://github.com/jonathanmorley/peoples-gas-lib) | [Dependabot](https://github.com/jonathanmorley/peoples-gas-lib/actions/runs/27798047297/job/82262042531) | completed | ❌ failure |
 | [jonathanmorley/peoples-gas-lib](https://github.com/jonathanmorley/peoples-gas-lib) | [Dependabot](https://github.com/jonathanmorley/peoples-gas-lib/actions/runs/27793370113/job/82247541353) | completed | ❌ failure |
 | [jonathanmorley/peoples-gas-lib](https://github.com/jonathanmorley/peoples-gas-lib) | [Dependabot](https://github.com/jonathanmorley/peoples-gas-lib/actions/runs/27693133803/job/81909173944) | completed | ❌ failure |
