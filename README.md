@@ -12,9 +12,9 @@
 | [jonathanmorley/advent-of-code](https://github.com/jonathanmorley/advent-of-code) | [Dependabot](https://github.com/jonathanmorley/advent-of-code/actions/runs/24808644941/job/72608498534) | completed | ✅ success |
 | [jonathanmorley/advent-of-code](https://github.com/jonathanmorley/advent-of-code) | [Dependabot](https://github.com/jonathanmorley/advent-of-code/actions/runs/21648045218/job/62405096273) | completed | ✅ success |
 | [jonathanmorley/asdf-mono](https://github.com/jonathanmorley/asdf-mono) | [nix flake check (aarch64-darwin)](https://github.com/jonathanmorley/asdf-mono/actions/runs/27525944244/job/81353161084) | completed | ✅ success |
-| [jonathanmorley/asdf-pnpm](https://github.com/jonathanmorley/asdf-pnpm) | [nix flake check (x86_64-linux)](https://github.com/jonathanmorley/asdf-pnpm/actions/runs/27517656956/job/81329218959) | completed | ✅ success |
-| [jonathanmorley/asdf-pnpm](https://github.com/jonathanmorley/asdf-pnpm) | [nix flake check (aarch64-darwin)](https://github.com/jonathanmorley/asdf-pnpm/actions/runs/27517656956/job/81329218933) | completed | ✅ success |
-| [jonathanmorley/asdf-pnpm](https://github.com/jonathanmorley/asdf-pnpm) | [nix flake check (aarch64-linux)](https://github.com/jonathanmorley/asdf-pnpm/actions/runs/27517656956/job/81329218908) | completed | ✅ success |
+| [jonathanmorley/asdf-pnpm](https://github.com/jonathanmorley/asdf-pnpm) | [nix flake check (aarch64-darwin)](https://github.com/jonathanmorley/asdf-pnpm/actions/runs/27925095733/job/82625914202) | completed | ✅ success |
+| [jonathanmorley/asdf-pnpm](https://github.com/jonathanmorley/asdf-pnpm) | [nix flake check (x86_64-linux)](https://github.com/jonathanmorley/asdf-pnpm/actions/runs/27925095733/job/82625914177) | completed | ✅ success |
+| [jonathanmorley/asdf-pnpm](https://github.com/jonathanmorley/asdf-pnpm) | [nix flake check (aarch64-linux)](https://github.com/jonathanmorley/asdf-pnpm/actions/runs/27925095733/job/82625914174) | completed | ✅ success |
 | [jonathanmorley/aws-member-accounts](https://github.com/jonathanmorley/aws-member-accounts) | [Dependabot](https://github.com/jonathanmorley/aws-member-accounts/actions/runs/24541072991/job/71746792751) | completed | ✅ success |
 | [jonathanmorley/aws-member-accounts](https://github.com/jonathanmorley/aws-member-accounts) | [Dependabot](https://github.com/jonathanmorley/aws-member-accounts/actions/runs/24540980933/job/71746507154) | completed | ✅ success |
 | [jonathanmorley/aws-member-accounts](https://github.com/jonathanmorley/aws-member-accounts) | [Dependabot](https://github.com/jonathanmorley/aws-member-accounts/actions/runs/24265423793/job/70859203988) | completed | ✅ success |
@@ -43,11 +43,10 @@
 | [jonathanmorley/gha-testing](https://github.com/jonathanmorley/gha-testing) | [ci / plan](https://github.com/jonathanmorley/gha-testing/actions/runs/27821016578/job/82333859359) | completed | ✅ success |
 | [jonathanmorley/hashlock](https://github.com/jonathanmorley/hashlock) | [Analyze (javascript-typescript)](https://github.com/jonathanmorley/hashlock/actions/runs/27810477694/job/82299407238) | completed | ✅ success |
 | [jonathanmorley/hashlock](https://github.com/jonathanmorley/hashlock) | [Analyze (javascript-typescript)](https://github.com/jonathanmorley/hashlock/actions/runs/27527084426/job/81356561662) | completed | ✅ success |
-| [jonathanmorley/jonathanmorley](https://github.com/jonathanmorley/jonathanmorley) | [update](https://github.com/jonathanmorley/jonathanmorley/actions/runs/27891469154/job/82535514396) | in_progress | ❌ null |
-| [jonathanmorley/nixpkgs](https://github.com/jonathanmorley/nixpkgs) | [Analyze (actions)](https://github.com/jonathanmorley/nixpkgs/actions/runs/27860692587/job/82456085619) | completed | ✅ success |
-| [jonathanmorley/nixpkgs](https://github.com/jonathanmorley/nixpkgs) | [nix](https://github.com/jonathanmorley/nixpkgs/actions/runs/27521537041/job/81340313933) | completed | ❌ skipped |
-| [jonathanmorley/nixpkgs](https://github.com/jonathanmorley/nixpkgs) | [format](https://github.com/jonathanmorley/nixpkgs/actions/runs/27521537041/job/81340297665) | completed | ❌ skipped |
-| [jonathanmorley/nixpkgs](https://github.com/jonathanmorley/nixpkgs) | [Analyze (actions)](https://github.com/jonathanmorley/nixpkgs/actions/runs/27521536706/job/81340297611) | completed | ✅ success |
+| [jonathanmorley/jonathanmorley](https://github.com/jonathanmorley/jonathanmorley) | [update](https://github.com/jonathanmorley/jonathanmorley/actions/runs/27926596532/job/82630079942) | in_progress | ❌ null |
+| [jonathanmorley/nixpkgs](https://github.com/jonathanmorley/nixpkgs) | [nix](https://github.com/jonathanmorley/nixpkgs/actions/runs/27923042474/job/82620095992) | completed | ❌ skipped |
+| [jonathanmorley/nixpkgs](https://github.com/jonathanmorley/nixpkgs) | [format](https://github.com/jonathanmorley/nixpkgs/actions/runs/27923042474/job/82620084851) | completed | ❌ skipped |
+| [jonathanmorley/nixpkgs](https://github.com/jonathanmorley/nixpkgs) | [Analyze (actions)](https://github.com/jonathanmorley/nixpkgs/actions/runs/27923041996/job/82620084464) | completed | ✅ success |
 | [jonathanmorley/okra](https://github.com/jonathanmorley/okra) | [Dependabot](https://github.com/jonathanmorley/okra/actions/runs/20607877165/job/59187111975) | completed | ❌ failure |
 | [jonathanmorley/okra](https://github.com/jonathanmorley/okra) | [Dependabot](https://github.com/jonathanmorley/okra/actions/runs/20607876980/job/59187111707) | completed | ❌ failure |
 | [jonathanmorley/okra](https://github.com/jonathanmorley/okra) | [Dependabot](https://github.com/jonathanmorley/okra/actions/runs/20607876989/job/59187111677) | completed | ❌ failure |
