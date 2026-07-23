@@ -43,16 +43,18 @@
 | [jonathanmorley/gha-testing](https://github.com/jonathanmorley/gha-testing) | [ci / plan](https://github.com/jonathanmorley/gha-testing/actions/runs/29730053322/job/88312153894) | completed | ✅ success |
 | [jonathanmorley/hashlock](https://github.com/jonathanmorley/hashlock) | [Analyze (javascript-typescript)](https://github.com/jonathanmorley/hashlock/actions/runs/29561386459/job/87824410751) | completed | ✅ success |
 | [jonathanmorley/hashlock](https://github.com/jonathanmorley/hashlock) | [Analyze (javascript-typescript)](https://github.com/jonathanmorley/hashlock/actions/runs/29152867902/job/86545119308) | completed | ✅ success |
-| [jonathanmorley/jonathanmorley](https://github.com/jonathanmorley/jonathanmorley) | [update](https://github.com/jonathanmorley/jonathanmorley/actions/runs/29884240163/job/88811396831) | in_progress | ❌ null |
+| [jonathanmorley/jonathanmorley](https://github.com/jonathanmorley/jonathanmorley) | [update](https://github.com/jonathanmorley/jonathanmorley/actions/runs/29973211096/job/89099467426) | in_progress | ❌ null |
 | [jonathanmorley/okra](https://github.com/jonathanmorley/okra) | [Dependabot](https://github.com/jonathanmorley/okra/actions/runs/20607877165/job/59187111975) | completed | ❌ failure |
 | [jonathanmorley/okra](https://github.com/jonathanmorley/okra) | [Dependabot](https://github.com/jonathanmorley/okra/actions/runs/20607876980/job/59187111707) | completed | ❌ failure |
 | [jonathanmorley/okra](https://github.com/jonathanmorley/okra) | [Dependabot](https://github.com/jonathanmorley/okra/actions/runs/20607876989/job/59187111677) | completed | ❌ failure |
 | [jonathanmorley/okra](https://github.com/jonathanmorley/okra) | [Dependabot](https://github.com/jonathanmorley/okra/actions/runs/20607876611/job/59187110849) | completed | ❌ failure |
 | [jonathanmorley/okra](https://github.com/jonathanmorley/okra) | [Dependabot](https://github.com/jonathanmorley/okra/actions/runs/20607876657/job/59187110844) | completed | ❌ failure |
 | [jonathanmorley/okra](https://github.com/jonathanmorley/okra) | [Dependabot](https://github.com/jonathanmorley/okra/actions/runs/20607876308/job/59187110213) | completed | ❌ failure |
-| [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Analyze (rust)](https://github.com/jonathanmorley/oktaws/actions/runs/29870099587/job/88767868308) | completed | ✅ success |
-| [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Analyze (actions)](https://github.com/jonathanmorley/oktaws/actions/runs/29870099587/job/88767868292) | completed | ✅ success |
-| [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Scorecard analysis](https://github.com/jonathanmorley/oktaws/actions/runs/29870100571/job/88767867119) | completed | ✅ success |
+| [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Analyze (rust)](https://github.com/jonathanmorley/oktaws/actions/runs/29901420184/job/88862793099) | completed | ✅ success |
+| [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Analyze (actions)](https://github.com/jonathanmorley/oktaws/actions/runs/29901420184/job/88862793031) | completed | ✅ success |
+| [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Scorecard analysis](https://github.com/jonathanmorley/oktaws/actions/runs/29901420927/job/88862791963) | completed | ✅ success |
+| [jonathanmorley/peoples-gas-lib](https://github.com/jonathanmorley/peoples-gas-lib) | [Adjust Configuration](https://github.com/jonathanmorley/peoples-gas-lib/actions/runs/29926734159/job/88946009271) | completed | ❌ skipped |
+| [jonathanmorley/peoples-gas-lib](https://github.com/jonathanmorley/peoples-gas-lib) | [Analyze (python)](https://github.com/jonathanmorley/peoples-gas-lib/actions/runs/29926734159/job/88945727151) | completed | ✅ success |
 | [jonathanmorley/peoples-gas-lib](https://github.com/jonathanmorley/peoples-gas-lib) | [Dependabot](https://github.com/jonathanmorley/peoples-gas-lib/actions/runs/29366147852/job/87198093176) | completed | ❌ failure |
 | [jonathanmorley/peoples-gas-lib](https://github.com/jonathanmorley/peoples-gas-lib) | [Dependabot](https://github.com/jonathanmorley/peoples-gas-lib/actions/runs/29129757654/job/86482669863) | completed | ✅ success |
 | [jonathanmorley/peoples-gas-lib](https://github.com/jonathanmorley/peoples-gas-lib) | [Dependabot](https://github.com/jonathanmorley/peoples-gas-lib/actions/runs/27854278943/job/82438736723) | completed | ✅ success |
@@ -110,6 +112,7 @@
 | [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [![Scorecard supply-chain security](https://github.com/jonathanmorley/oktaws/workflows/Scorecard%20supply-chain%20security/badge.svg)](https://github.com/jonathanmorley/oktaws/blob/master/.github/workflows/scorecard.yml) | ✅ active |
 | [jonathanmorley/peoples-gas-lib](https://github.com/jonathanmorley/peoples-gas-lib) | [![Dependabot Updates](https://github.com/jonathanmorley/peoples-gas-lib/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/jonathanmorley/peoples-gas-lib/actions/workflows/dependabot/dependabot-updates) | ✅ active |
 | [jonathanmorley/peoples-gas-lib](https://github.com/jonathanmorley/peoples-gas-lib) | [![Dependency Graph](https://github.com/jonathanmorley/peoples-gas-lib/actions/workflows/dependabot/update-graph/badge.svg)](https://github.com/jonathanmorley/peoples-gas-lib/actions/workflows/dependabot/update-graph) | ✅ active |
+| [jonathanmorley/peoples-gas-lib](https://github.com/jonathanmorley/peoples-gas-lib) | [![CodeQL](https://github.com/jonathanmorley/peoples-gas-lib/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/jonathanmorley/peoples-gas-lib/actions/workflows/github-code-scanning/codeql) | ✅ active |
 | [jonathanmorley/reproductions](https://github.com/jonathanmorley/reproductions) | [![.github/workflows/repro.yaml](https://github.com/jonathanmorley/reproductions/workflows/.github/workflows/repro.yaml/badge.svg)](https://github.com/jonathanmorley/reproductions/blob/main/.github/workflows/repro.yaml) | ✅ active |
 
 <!-- workflows-end -->
