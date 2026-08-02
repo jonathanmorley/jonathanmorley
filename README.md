@@ -46,7 +46,8 @@
 | [jonathanmorley/gha-testing](https://github.com/jonathanmorley/gha-testing) | [ci / plan](https://github.com/jonathanmorley/gha-testing/actions/runs/30650289002/job/91221586756) | completed | ✅ success |
 | [jonathanmorley/hashlock](https://github.com/jonathanmorley/hashlock) | [Analyze (javascript-typescript)](https://github.com/jonathanmorley/hashlock/actions/runs/30611029015/job/91093596636) | completed | ✅ success |
 | [jonathanmorley/hashlock](https://github.com/jonathanmorley/hashlock) | [Analyze (javascript-typescript)](https://github.com/jonathanmorley/hashlock/actions/runs/30593799543/job/91041635444) | completed | ✅ success |
-| [jonathanmorley/jonathanmorley](https://github.com/jonathanmorley/jonathanmorley) | [update](https://github.com/jonathanmorley/jonathanmorley/actions/runs/30679151137/job/91312480112) | in_progress | ❌ null |
+| [jonathanmorley/jonathanmorley](https://github.com/jonathanmorley/jonathanmorley) | [update](https://github.com/jonathanmorley/jonathanmorley/actions/runs/30727972815/job/91443097195) | in_progress | ❌ null |
+| [jonathanmorley/nixpkgs](https://github.com/jonathanmorley/nixpkgs) | [Analyze (actions)](https://github.com/jonathanmorley/nixpkgs/actions/runs/30684740221/job/91328233991) | completed | ✅ success |
 | [jonathanmorley/nixpkgs](https://github.com/jonathanmorley/nixpkgs) | [Analyze (actions)](https://github.com/jonathanmorley/nixpkgs/actions/runs/30648616366/job/91216121161) | completed | ✅ success |
 | [jonathanmorley/nixpkgs](https://github.com/jonathanmorley/nixpkgs) | [format](https://github.com/jonathanmorley/nixpkgs/actions/runs/30648616747/job/91216118711) | completed | ✅ success |
 | [jonathanmorley/nixpkgs](https://github.com/jonathanmorley/nixpkgs) | [nix](https://github.com/jonathanmorley/nixpkgs/actions/runs/30648616747/job/91216118678) | completed | ✅ success |
