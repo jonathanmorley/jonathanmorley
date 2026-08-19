@@ -40,11 +40,11 @@
 | [jonathanmorley/cargo-cook](https://github.com/jonathanmorley/cargo-cook) | [Dependabot](https://github.com/jonathanmorley/cargo-cook/actions/runs/26662947480/job/78589751588) | completed | ✅ success |
 | [jonathanmorley/cargo-cook](https://github.com/jonathanmorley/cargo-cook) | [Dependabot](https://github.com/jonathanmorley/cargo-cook/actions/runs/25563964795/job/75042484602) | completed | ✅ success |
 | [jonathanmorley/cargo-cook](https://github.com/jonathanmorley/cargo-cook) | [Dependabot](https://github.com/jonathanmorley/cargo-cook/actions/runs/23354671285/job/67942345224) | completed | ✅ success |
-| [jonathanmorley/gha-testing](https://github.com/jonathanmorley/gha-testing) | [ci / fmt,build,lint,unit-test,integration-test  on ubuntu-latest](https://github.com/jonathanmorley/gha-testing/actions/runs/32002160889/job/95304452507) | completed | ✅ success |
-| [jonathanmorley/gha-testing](https://github.com/jonathanmorley/gha-testing) | [ci / plan](https://github.com/jonathanmorley/gha-testing/actions/runs/32002160889/job/95304423600) | completed | ✅ success |
+| [jonathanmorley/gha-testing](https://github.com/jonathanmorley/gha-testing) | [ci / fmt,build,lint,unit-test,integration-test  on ubuntu-latest](https://github.com/jonathanmorley/gha-testing/actions/runs/32153205096/job/95764039074) | completed | ✅ success |
+| [jonathanmorley/gha-testing](https://github.com/jonathanmorley/gha-testing) | [ci / plan](https://github.com/jonathanmorley/gha-testing/actions/runs/32153205096/job/95763990943) | completed | ✅ success |
 | [jonathanmorley/hashlock](https://github.com/jonathanmorley/hashlock) | [Analyze (javascript-typescript)](https://github.com/jonathanmorley/hashlock/actions/runs/31777931892/job/94697213619) | completed | ✅ success |
 | [jonathanmorley/hashlock](https://github.com/jonathanmorley/hashlock) | [Analyze (javascript-typescript)](https://github.com/jonathanmorley/hashlock/actions/runs/31435692911/job/93609212509) | completed | ✅ success |
-| [jonathanmorley/jonathanmorley](https://github.com/jonathanmorley/jonathanmorley) | [update](https://github.com/jonathanmorley/jonathanmorley/actions/runs/32085587111/job/95557333020) | in_progress | ❌ null |
+| [jonathanmorley/jonathanmorley](https://github.com/jonathanmorley/jonathanmorley) | [update](https://github.com/jonathanmorley/jonathanmorley/actions/runs/32202323356/job/95918535376) | in_progress | ❌ null |
 | [jonathanmorley/nixpkgs](https://github.com/jonathanmorley/nixpkgs) | [Analyze (actions)](https://github.com/jonathanmorley/nixpkgs/actions/runs/31983728982/job/95254995545) | completed | ✅ success |
 | [jonathanmorley/nixpkgs](https://github.com/jonathanmorley/nixpkgs) | [nix](https://github.com/jonathanmorley/nixpkgs/actions/runs/31983729050/job/95254992725) | completed | ✅ success |
 | [jonathanmorley/nixpkgs](https://github.com/jonathanmorley/nixpkgs) | [format](https://github.com/jonathanmorley/nixpkgs/actions/runs/31983729050/job/95254992670) | completed | ✅ success |
@@ -54,6 +54,8 @@
 | [jonathanmorley/okra](https://github.com/jonathanmorley/okra) | [Dependabot](https://github.com/jonathanmorley/okra/actions/runs/20607876611/job/59187110849) | completed | ❌ failure |
 | [jonathanmorley/okra](https://github.com/jonathanmorley/okra) | [Dependabot](https://github.com/jonathanmorley/okra/actions/runs/20607876657/job/59187110844) | completed | ❌ failure |
 | [jonathanmorley/okra](https://github.com/jonathanmorley/okra) | [Dependabot](https://github.com/jonathanmorley/okra/actions/runs/20607876308/job/59187110213) | completed | ❌ failure |
+| [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Analyze (actions)](https://github.com/jonathanmorley/oktaws/actions/runs/32156534989/job/95775000219) | completed | ✅ success |
+| [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Analyze (rust)](https://github.com/jonathanmorley/oktaws/actions/runs/32156534989/job/95775000042) | completed | ✅ success |
 | [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Scorecard analysis](https://github.com/jonathanmorley/oktaws/actions/runs/31755974790/job/94631667512) | completed | ✅ success |
 | [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Analyze (actions)](https://github.com/jonathanmorley/oktaws/actions/runs/31508917133/job/93837468218) | completed | ✅ success |
 | [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Analyze (rust)](https://github.com/jonathanmorley/oktaws/actions/runs/31508917133/job/93837468153) | completed | ✅ success |
