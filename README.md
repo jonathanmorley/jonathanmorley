@@ -5,6 +5,7 @@
 <!-- checks-start -->
 | Repository | Check | Status | Conclusion |
 | ---------- | ----- | ------ | ---------- |
+| [jonathanmorley/.github](https://github.com/jonathanmorley/.github) | [Trust Policy Validation](https://github.com/jonathanmorley/.github/runs/96841068853) | completed | ✅ success |
 | [jonathanmorley/advent-of-code](https://github.com/jonathanmorley/advent-of-code) | [Dependabot](https://github.com/jonathanmorley/advent-of-code/actions/runs/24810207844/job/72613268909) | completed | ❌ failure |
 | [jonathanmorley/advent-of-code](https://github.com/jonathanmorley/advent-of-code) | [Dependabot](https://github.com/jonathanmorley/advent-of-code/actions/runs/24810038020/job/72612744854) | completed | ❌ failure |
 | [jonathanmorley/advent-of-code](https://github.com/jonathanmorley/advent-of-code) | [Dependabot](https://github.com/jonathanmorley/advent-of-code/actions/runs/24810009501/job/72612660001) | completed | ❌ failure |
@@ -40,17 +41,19 @@
 | [jonathanmorley/cargo-cook](https://github.com/jonathanmorley/cargo-cook) | [Dependabot](https://github.com/jonathanmorley/cargo-cook/actions/runs/26662947480/job/78589751588) | completed | ✅ success |
 | [jonathanmorley/cargo-cook](https://github.com/jonathanmorley/cargo-cook) | [Dependabot](https://github.com/jonathanmorley/cargo-cook/actions/runs/25563964795/job/75042484602) | completed | ✅ success |
 | [jonathanmorley/cargo-cook](https://github.com/jonathanmorley/cargo-cook) | [Dependabot](https://github.com/jonathanmorley/cargo-cook/actions/runs/23354671285/job/67942345224) | completed | ✅ success |
-| [jonathanmorley/gha-testing](https://github.com/jonathanmorley/gha-testing) | [ci / fmt,build,lint,unit-test,integration-test  on ubuntu-latest](https://github.com/jonathanmorley/gha-testing/actions/runs/32153205096/job/95764039074) | completed | ✅ success |
-| [jonathanmorley/gha-testing](https://github.com/jonathanmorley/gha-testing) | [ci / plan](https://github.com/jonathanmorley/gha-testing/actions/runs/32153205096/job/95763990943) | completed | ✅ success |
-| [jonathanmorley/github-config](https://github.com/jonathanmorley/github-config) | [Trust Policy Validation](https://github.com/jonathanmorley/github-config/runs/96589654500) | completed | ✅ success |
-| [jonathanmorley/github-config](https://github.com/jonathanmorley/github-config) | [apply](https://github.com/jonathanmorley/github-config/actions/runs/32419973689/job/96589654095) | completed | ❌ failure |
-| [jonathanmorley/github-config](https://github.com/jonathanmorley/github-config) | [plan](https://github.com/jonathanmorley/github-config/actions/runs/32419973689/job/96589653733) | completed | ❌ cancelled |
+| [jonathanmorley/gha-testing](https://github.com/jonathanmorley/gha-testing) | [ci / fmt,build,lint,unit-test,integration-test  on ubuntu-latest](https://github.com/jonathanmorley/gha-testing/actions/runs/32537104361/job/96940007363) | completed | ✅ success |
+| [jonathanmorley/gha-testing](https://github.com/jonathanmorley/gha-testing) | [ci / plan](https://github.com/jonathanmorley/gha-testing/actions/runs/32537104361/job/96939990939) | completed | ✅ success |
+| [jonathanmorley/github-config](https://github.com/jonathanmorley/github-config) | [apply](https://github.com/jonathanmorley/github-config/actions/runs/32523371599/job/96900369529) | completed | ✅ success |
+| [jonathanmorley/github-config](https://github.com/jonathanmorley/github-config) | [plan](https://github.com/jonathanmorley/github-config/actions/runs/32523371599/job/96900218275) | completed | ✅ success |
+| [jonathanmorley/hashlock](https://github.com/jonathanmorley/hashlock) | [Analyze (javascript-typescript)](https://github.com/jonathanmorley/hashlock/actions/runs/32456249390/job/96694008604) | completed | ✅ success |
 | [jonathanmorley/hashlock](https://github.com/jonathanmorley/hashlock) | [Analyze (javascript-typescript)](https://github.com/jonathanmorley/hashlock/actions/runs/31777931892/job/94697213619) | completed | ✅ success |
 | [jonathanmorley/hashlock](https://github.com/jonathanmorley/hashlock) | [Analyze (javascript-typescript)](https://github.com/jonathanmorley/hashlock/actions/runs/31435692911/job/93609212509) | completed | ✅ success |
-| [jonathanmorley/jonathanmorley](https://github.com/jonathanmorley/jonathanmorley) | [update](https://github.com/jonathanmorley/jonathanmorley/actions/runs/32434013791/job/96631394828) | in_progress | ❌ null |
+| [jonathanmorley/jonathanmorley](https://github.com/jonathanmorley/jonathanmorley) | [update](https://github.com/jonathanmorley/jonathanmorley/actions/runs/32541260807/job/96951593652) | in_progress | ❌ null |
+| [jonathanmorley/log-demo-rs](https://github.com/jonathanmorley/log-demo-rs) | [Dependabot](https://github.com/jonathanmorley/log-demo-rs/actions/runs/32523316055/job/96900065603) | completed | ✅ success |
 | [jonathanmorley/nixpkgs](https://github.com/jonathanmorley/nixpkgs) | [Analyze (actions)](https://github.com/jonathanmorley/nixpkgs/actions/runs/32426331898/job/96608921328) | completed | ✅ success |
 | [jonathanmorley/nixpkgs](https://github.com/jonathanmorley/nixpkgs) | [nix](https://github.com/jonathanmorley/nixpkgs/actions/runs/32426332809/job/96608920520) | completed | ✅ success |
 | [jonathanmorley/nixpkgs](https://github.com/jonathanmorley/nixpkgs) | [format](https://github.com/jonathanmorley/nixpkgs/actions/runs/32426332809/job/96608920306) | completed | ✅ success |
+| [jonathanmorley/okra](https://github.com/jonathanmorley/okra) | [Dependabot](https://github.com/jonathanmorley/okra/actions/runs/32523314939/job/96900053718) | completed | ✅ success |
 | [jonathanmorley/okra](https://github.com/jonathanmorley/okra) | [Dependabot](https://github.com/jonathanmorley/okra/actions/runs/20607877165/job/59187111975) | completed | ❌ failure |
 | [jonathanmorley/okra](https://github.com/jonathanmorley/okra) | [Dependabot](https://github.com/jonathanmorley/okra/actions/runs/20607876980/job/59187111707) | completed | ❌ failure |
 | [jonathanmorley/okra](https://github.com/jonathanmorley/okra) | [Dependabot](https://github.com/jonathanmorley/okra/actions/runs/20607876989/job/59187111677) | completed | ❌ failure |
@@ -72,6 +75,7 @@
 | [jonathanmorley/peoples-gas-lib](https://github.com/jonathanmorley/peoples-gas-lib) | [Analyze (python)](https://github.com/jonathanmorley/peoples-gas-lib/actions/runs/32260904321/job/96093662437) | completed | ✅ success |
 | [jonathanmorley/peoples-gas-lib](https://github.com/jonathanmorley/peoples-gas-lib) | [update-uv-graph](https://github.com/jonathanmorley/peoples-gas-lib/actions/runs/31996493873/job/95288970669) | completed | ✅ success |
 | [jonathanmorley/peoples-gas-lib](https://github.com/jonathanmorley/peoples-gas-lib) | [Analyze (python)](https://github.com/jonathanmorley/peoples-gas-lib/actions/runs/31996491405/job/95288965309) | completed | ✅ success |
+| [jonathanmorley/subway-info](https://github.com/jonathanmorley/subway-info) | [Dependabot](https://github.com/jonathanmorley/subway-info/actions/runs/32522949824/job/96898951950) | completed | ✅ success |
 
 <!-- checks-end -->
 
@@ -102,6 +106,7 @@
 | [jonathanmorley/hashlock](https://github.com/jonathanmorley/hashlock) | [![CodeQL](https://github.com/jonathanmorley/hashlock/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/jonathanmorley/hashlock/actions/workflows/github-code-scanning/codeql) | ✅ active |
 | [jonathanmorley/jonathanmorley](https://github.com/jonathanmorley/jonathanmorley) | [![Update README](https://github.com/jonathanmorley/jonathanmorley/workflows/Update%20README/badge.svg)](https://github.com/jonathanmorley/jonathanmorley/blob/master/.github/workflows/readme.yml) | ✅ active |
 | [jonathanmorley/jonathanmorley](https://github.com/jonathanmorley/jonathanmorley) | [![Dependabot Updates](https://github.com/jonathanmorley/jonathanmorley/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/jonathanmorley/jonathanmorley/actions/workflows/dependabot/dependabot-updates) | ✅ active |
+| [jonathanmorley/log-demo-rs](https://github.com/jonathanmorley/log-demo-rs) | [![Dependabot Updates](https://github.com/jonathanmorley/log-demo-rs/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/jonathanmorley/log-demo-rs/actions/workflows/dependabot/dependabot-updates) | ✅ active |
 | [jonathanmorley/nix-darwin](https://github.com/jonathanmorley/nix-darwin) | [![Test](https://github.com/jonathanmorley/nix-darwin/workflows/Test/badge.svg)](https://github.com/jonathanmorley/nix-darwin/blob/master/.github/workflows/test.yml) | ✅ active |
 | [jonathanmorley/nix-darwin](https://github.com/jonathanmorley/nix-darwin) | [![Update website](https://github.com/jonathanmorley/nix-darwin/workflows/Update%20website/badge.svg)](https://github.com/jonathanmorley/nix-darwin/blob/master/.github/workflows/update-website.yml) | ✅ active |
 | [jonathanmorley/nixpkgs](https://github.com/jonathanmorley/nixpkgs) | [![CI](https://github.com/jonathanmorley/nixpkgs/workflows/CI/badge.svg)](https://github.com/jonathanmorley/nixpkgs/blob/main/.github/workflows/ci.yml) | ✅ active |
@@ -116,5 +121,6 @@
 | [jonathanmorley/peoples-gas-lib](https://github.com/jonathanmorley/peoples-gas-lib) | [![Dependency Graph](https://github.com/jonathanmorley/peoples-gas-lib/actions/workflows/dependabot/update-graph/badge.svg)](https://github.com/jonathanmorley/peoples-gas-lib/actions/workflows/dependabot/update-graph) | ✅ active |
 | [jonathanmorley/peoples-gas-lib](https://github.com/jonathanmorley/peoples-gas-lib) | [![CodeQL](https://github.com/jonathanmorley/peoples-gas-lib/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/jonathanmorley/peoples-gas-lib/actions/workflows/github-code-scanning/codeql) | ✅ active |
 | [jonathanmorley/reproductions](https://github.com/jonathanmorley/reproductions) | [![.github/workflows/repro.yaml](https://github.com/jonathanmorley/reproductions/workflows/.github/workflows/repro.yaml/badge.svg)](https://github.com/jonathanmorley/reproductions/blob/main/.github/workflows/repro.yaml) | ✅ active |
+| [jonathanmorley/subway-info](https://github.com/jonathanmorley/subway-info) | [![Dependabot Updates](https://github.com/jonathanmorley/subway-info/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/jonathanmorley/subway-info/actions/workflows/dependabot/dependabot-updates) | ✅ active |
 
 <!-- workflows-end -->
