@@ -69,8 +69,22 @@ jobs:
           gh api --silent -X POST "repos/$REPO/issues/$PR_NUMBER/labels" -f "labels[]=ai:autofix"
 
           PR="$(gh api "repos/$REPO/pulls/$PR_NUMBER")"
-          if [ "$(echo "$PR" | jq -r '.state')" = "open" ] && [ "$(echo "$PR" | jq -r '.auto_merge | . != null')" = "false" ]; then
-            gh api graphql \
-              -f query='mutation($id: ID!) { enablePullRequestAutoMerge(input: { pullRequestId: $id, mergeMethod: SQUASH }) { clientMutationId } }' \
-              -f id="$(echo "$PR" | jq -r .node_id)"
+          if [ "$(echo "$PR" | jq -r '.state')" != "open" ]; then
+            echo "PR #$PR_NUMBER is no longer open; nothing to do."
+            exit 0
           fi
+          if [ "$(echo "$PR" | jq -r '.auto_merge | . != null')" = "true" ]; then
+            echo "Auto-merge already enabled for PR #$PR_NUMBER."
+            exit 0
+          fi
+          # gh (unlike the raw enablePullRequestAutoMerge mutation, which
+          # spuriously rejects freshly created PRs as unstable/clean) copes
+          # with mergeability still being computed. Retry a few times anyway.
+          for i in 1 2 3; do
+            if gh pr merge "$PR_NUMBER" --auto --squash --delete-branch; then
+              exit 0
+            fi
+            sleep 15
+          done
+          echo "Could not enable auto-merge for PR #$PR_NUMBER." >&2
+          exit 1
