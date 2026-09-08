@@ -21,11 +21,21 @@ export async function getWorkflows(octokit: Octokit, repository: SimpleRepositor
   }));
 }
 
+export function isInactiveWorkflow(workflow: SimpleWorkflow): boolean {
+  return workflow.state !== 'active';
+}
+
 export function workflowsToMarkdown(workflows: SimpleWorkflow[]): string {
+  const inactiveWorkflows = workflows.filter(isInactiveWorkflow);
+
+  if (inactiveWorkflows.length === 0) {
+    return '✅ All workflows active.';
+  }
+
   return json2md([{
     table: {
       headers: ['Repository', 'Workflow', 'State'],
-      rows: workflows.map(({ repo, repo_url, name, state, badge_url, html_url }) => ({
+      rows: inactiveWorkflows.map(({ repo, repo_url, name, state, badge_url, html_url }) => ({
         Repository: `[${repo}](${repo_url})`,
         Workflow: `[![${name}](${badge_url})](${html_url})`,
         State: state === 'active' ? `✅ ${state}` : `❌ ${state}`,

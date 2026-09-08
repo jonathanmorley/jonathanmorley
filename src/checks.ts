@@ -22,11 +22,21 @@ export async function getChecks(octokit: Octokit, repository: SimpleRepository):
   }));
 }
 
+export function isFailedCheck(check: SimpleCheck): boolean {
+  return check.status === 'completed' && check.conclusion !== 'success';
+}
+
 export function checksToMarkdown(checks: SimpleCheck[]): string {
+  const failedChecks = checks.filter(isFailedCheck);
+
+  if (failedChecks.length === 0) {
+    return '✅ All checks passing.';
+  }
+
   return json2md([{
     table: {
       headers: ['Repository', 'Check', 'Status', 'Conclusion'],
-      rows: checks.map(({ repo, repo_url, name, status, conclusion, html_url }) => ({
+      rows: failedChecks.map(({ repo, repo_url, name, status, conclusion, html_url }) => ({
         Repository: `[${repo}](${repo_url})`,
         Check: `[${name}](${html_url})`,
         Status: status,
