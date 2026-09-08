@@ -12,13 +12,9 @@
 | [jonathanmorley/aws-member-accounts](https://github.com/jonathanmorley/aws-member-accounts) | [Dependabot](https://github.com/jonathanmorley/aws-member-accounts/actions/runs/23909209373/job/69726388175) | completed | ❌ failure |
 | [jonathanmorley/aws-member-accounts](https://github.com/jonathanmorley/aws-member-accounts) | [Dependabot](https://github.com/jonathanmorley/aws-member-accounts/actions/runs/23068948781/job/67014261388) | completed | ❌ failure |
 | [jonathanmorley/aws-member-accounts](https://github.com/jonathanmorley/aws-member-accounts) | [Dependabot](https://github.com/jonathanmorley/aws-member-accounts/actions/runs/23068948810/job/67014261372) | completed | ❌ failure |
-| [jonathanmorley/okra](https://github.com/jonathanmorley/okra) | [Dependabot](https://github.com/jonathanmorley/okra/actions/runs/20607877165/job/59187111975) | completed | ❌ failure |
-| [jonathanmorley/okra](https://github.com/jonathanmorley/okra) | [Dependabot](https://github.com/jonathanmorley/okra/actions/runs/20607876980/job/59187111707) | completed | ❌ failure |
-| [jonathanmorley/okra](https://github.com/jonathanmorley/okra) | [Dependabot](https://github.com/jonathanmorley/okra/actions/runs/20607876989/job/59187111677) | completed | ❌ failure |
-| [jonathanmorley/okra](https://github.com/jonathanmorley/okra) | [Dependabot](https://github.com/jonathanmorley/okra/actions/runs/20607876611/job/59187110849) | completed | ❌ failure |
-| [jonathanmorley/okra](https://github.com/jonathanmorley/okra) | [Dependabot](https://github.com/jonathanmorley/okra/actions/runs/20607876657/job/59187110844) | completed | ❌ failure |
-| [jonathanmorley/okra](https://github.com/jonathanmorley/okra) | [Dependabot](https://github.com/jonathanmorley/okra/actions/runs/20607876308/job/59187110213) | completed | ❌ failure |
-| [jonathanmorley/terraform-provider-github](https://github.com/jonathanmorley/terraform-provider-github) | [Strict linting of new code](https://github.com/jonathanmorley/terraform-provider-github/actions/runs/33552026169/job/100003527432) | completed | ❌ skipped |
+| [jonathanmorley/gha-testing](https://github.com/jonathanmorley/gha-testing) | [ci / fmt,build,lint,unit-test,integration-test  on ubuntu-latest](https://github.com/jonathanmorley/gha-testing/actions/runs/34076228687/job/101602782672) | completed | ❌ failure |
+| [jonathanmorley/terraform-provider-github](https://github.com/jonathanmorley/terraform-provider-github) | [Strict linting of new code](https://github.com/jonathanmorley/terraform-provider-github/actions/runs/34233002462/job/102083562465) | completed | ❌ skipped |
+
 <!-- checks-end -->
 
 ## Inactive Repository Workflows
