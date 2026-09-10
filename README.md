@@ -5,7 +5,7 @@
 <!-- checks-start -->
 | Repository | Check | Status | Conclusion |
 | ---------- | ----- | ------ | ---------- |
-| [jonathanmorley/gha-testing](https://github.com/jonathanmorley/gha-testing) | [live-e2e](https://github.com/jonathanmorley/gha-testing/actions/runs/34278095003/job/102235984031) | completed | ❌ failure |
+| [jonathanmorley/aws-member-accounts](https://github.com/jonathanmorley/aws-member-accounts) | [Dependabot](https://github.com/jonathanmorley/aws-member-accounts/actions/runs/34408637017/job/102657577544) | completed | ❌ failure |
 
 <!-- checks-end -->
 
