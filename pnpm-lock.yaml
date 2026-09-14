@@ -91,8 +91,8 @@ packages:
   before-after-hook@4.0.0:
     resolution: {integrity: sha512-q6tR3RPqIB1pMiTRMFcZwuG5T8vwp+vUvEG0vuI6B+Rikh5BfPp2fQ82c925FOs+b0lcFQ8CFrL+KbilfZFhOQ==}
 
-  content-type@3.0.0:
-    resolution: {integrity: sha512-AIi5H6p0xk5uknXcN3/rmhP8jgp69OfSe/JuKiQAFprJ7UGw7mwj7m4XcmDzlrnJDG+cGpphAINGdU3g3g7kDw==}
+  content-type@3.1.0:
+    resolution: {integrity: sha512-z26wZR7iXahgpSK7XgnB4IbRVmUNSODvsX9qC9TAru7AcWGiqn5YKy+OH3PLRrwyAnewykKhCqnD+VV3a8uT8Q==}
     engines: {node: '>=22'}
 
   indento@1.1.14:
@@ -162,7 +162,7 @@ snapshots:
       '@octokit/endpoint': 11.0.5
       '@octokit/request-error': 7.1.2
       '@octokit/types': 18.0.0
-      content-type: 3.0.0
+      content-type: 3.1.0
       json-with-bigint: 3.5.12
       universal-user-agent: 7.0.3
 
@@ -189,7 +189,7 @@ snapshots:
 
   before-after-hook@4.0.0: {}
 
-  content-type@3.0.0: {}
+  content-type@3.1.0: {}
 
   indento@1.1.14: {}
 
