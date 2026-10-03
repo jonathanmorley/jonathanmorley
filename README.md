@@ -7,6 +7,8 @@
 | ---------- | ----- | ------ | ---------- |
 | [jonathanmorley/aws-member-accounts](https://github.com/jonathanmorley/aws-member-accounts) | [Dependabot](https://github.com/jonathanmorley/aws-member-accounts/actions/runs/36907548911/job/110521773851) | completed | ❌ failure |
 | [jonathanmorley/aws-member-accounts](https://github.com/jonathanmorley/aws-member-accounts) | [Dependabot](https://github.com/jonathanmorley/aws-member-accounts/actions/runs/36907549167/job/110521773475) | completed | ❌ failure |
+| [jonathanmorley/gha-testing](https://github.com/jonathanmorley/gha-testing) | [Dependabot](https://github.com/jonathanmorley/gha-testing/actions/runs/37049850956/job/110980226856) | completed | ❌ failure |
+| [jonathanmorley/gha-testing](https://github.com/jonathanmorley/gha-testing) | [Dependabot](https://github.com/jonathanmorley/gha-testing/actions/runs/37049850917/job/110980226289) | completed | ❌ failure |
 | [jonathanmorley/github-config](https://github.com/jonathanmorley/github-config) | [apply](https://github.com/jonathanmorley/github-config/actions/runs/36910331983/job/110531881860) | completed | ❌ skipped |
 | [jonathanmorley/github-config](https://github.com/jonathanmorley/github-config) | [plan](https://github.com/jonathanmorley/github-config/actions/runs/36910331983/job/110531104978) | completed | ❌ failure |
 | [jonathanmorley/log-demo-rs](https://github.com/jonathanmorley/log-demo-rs) | [Dependabot](https://github.com/jonathanmorley/log-demo-rs/actions/runs/36364823622/job/108749030744) | completed | ❌ failure |
