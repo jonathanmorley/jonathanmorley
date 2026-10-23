@@ -5,8 +5,6 @@
 <!-- checks-start -->
 | Repository | Check | Status | Conclusion |
 | ---------- | ----- | ------ | ---------- |
-| [jonathanmorley/gha-testing](https://github.com/jonathanmorley/gha-testing) | [Dependabot](https://github.com/jonathanmorley/gha-testing/actions/runs/39612695297/job/119265454500) | completed | ❌ failure |
-| [jonathanmorley/gha-testing](https://github.com/jonathanmorley/gha-testing) | [Dependabot](https://github.com/jonathanmorley/gha-testing/actions/runs/39609699040/job/119255029756) | completed | ❌ failure |
 | [jonathanmorley/github-config](https://github.com/jonathanmorley/github-config) | [apply](https://github.com/jonathanmorley/github-config/actions/runs/39635185098/job/119345001982) | completed | ❌ skipped |
 | [jonathanmorley/github-config](https://github.com/jonathanmorley/github-config) | [plan](https://github.com/jonathanmorley/github-config/actions/runs/39635185098/job/119343609799) | completed | ❌ failure |
 | [jonathanmorley/log-demo-rs](https://github.com/jonathanmorley/log-demo-rs) | [Dependabot](https://github.com/jonathanmorley/log-demo-rs/actions/runs/39188842321/job/117856948006) | completed | ❌ failure |
