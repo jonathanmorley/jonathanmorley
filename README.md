@@ -5,6 +5,7 @@
 <!-- checks-start -->
 | Repository | Check | Status | Conclusion |
 | ---------- | ----- | ------ | ---------- |
+| [jonathanmorley/github-config](https://github.com/jonathanmorley/github-config) | [detect-drift](https://github.com/jonathanmorley/github-config/actions/runs/42036801622/job/127276952243) | completed | ❌ failure |
 | [jonathanmorley/github-config](https://github.com/jonathanmorley/github-config) | [apply](https://github.com/jonathanmorley/github-config/actions/runs/39635185098/job/119345001982) | completed | ❌ skipped |
 | [jonathanmorley/github-config](https://github.com/jonathanmorley/github-config) | [plan](https://github.com/jonathanmorley/github-config/actions/runs/39635185098/job/119343609799) | completed | ❌ failure |
 | [jonathanmorley/log-demo-rs](https://github.com/jonathanmorley/log-demo-rs) | [Dependabot](https://github.com/jonathanmorley/log-demo-rs/actions/runs/41366914792/job/125028904265) | completed | ❌ failure |
@@ -13,6 +14,7 @@
 | [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Dependabot](https://github.com/jonathanmorley/oktaws/actions/runs/41357574180/job/125000835487) | completed | ❌ failure |
 | [jonathanmorley/reproductions](https://github.com/jonathanmorley/reproductions) | [index](https://github.com/jonathanmorley/reproductions/actions/runs/38263343348/job/114859202676) | completed | ❌ failure |
 | [jonathanmorley/reproductions](https://github.com/jonathanmorley/reproductions) | [index](https://github.com/jonathanmorley/reproductions/actions/runs/38263089235/job/114858333199) | completed | ❌ failure |
+| [jonathanmorley/terraform-provider-github](https://github.com/jonathanmorley/terraform-provider-github) | [synthesize](https://github.com/jonathanmorley/terraform-provider-github/actions/runs/42045428929/job/127306971605) | completed | ❌ cancelled |
 | [jonathanmorley/terraform-provider-github](https://github.com/jonathanmorley/terraform-provider-github) | [synthesize](https://github.com/jonathanmorley/terraform-provider-github/actions/runs/41846044633/job/126629689736) | completed | ❌ cancelled |
 | [jonathanmorley/terraform-provider-github](https://github.com/jonathanmorley/terraform-provider-github) | [synthesize](https://github.com/jonathanmorley/terraform-provider-github/actions/runs/41649391455/job/125963246083) | completed | ❌ cancelled |
 | [jonathanmorley/terraform-provider-github](https://github.com/jonathanmorley/terraform-provider-github) | [synthesize](https://github.com/jonathanmorley/terraform-provider-github/actions/runs/41472615279/job/125369856056) | completed | ❌ cancelled |
