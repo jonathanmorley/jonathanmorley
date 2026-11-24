@@ -6,8 +6,8 @@
 | Repository | Check | Status | Conclusion |
 | ---------- | ----- | ------ | ---------- |
 | [jonathanmorley/asdf-mono](https://github.com/jonathanmorley/asdf-mono) | [nix flake check (aarch64-darwin)](https://github.com/jonathanmorley/asdf-mono/actions/runs/44864412673/job/136724747825) | completed | ❌ failure |
-| [jonathanmorley/github-config](https://github.com/jonathanmorley/github-config) | [apply](https://github.com/jonathanmorley/github-config/actions/runs/42712194844/job/129485604910) | completed | ❌ skipped |
-| [jonathanmorley/github-config](https://github.com/jonathanmorley/github-config) | [plan](https://github.com/jonathanmorley/github-config/actions/runs/42712194844/job/129484371819) | completed | ❌ failure |
+| [jonathanmorley/github-config](https://github.com/jonathanmorley/github-config) | [apply](https://github.com/jonathanmorley/github-config/actions/runs/45284232635/job/138077326904) | completed | ❌ skipped |
+| [jonathanmorley/github-config](https://github.com/jonathanmorley/github-config) | [plan](https://github.com/jonathanmorley/github-config/actions/runs/45284232635/job/138076246486) | completed | ❌ failure |
 | [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Dependabot](https://github.com/jonathanmorley/oktaws/actions/runs/41357605353/job/125000928335) | completed | ❌ failure |
 | [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Dependabot](https://github.com/jonathanmorley/oktaws/actions/runs/41357581061/job/125000855654) | completed | ❌ failure |
 | [jonathanmorley/oktaws](https://github.com/jonathanmorley/oktaws) | [Dependabot](https://github.com/jonathanmorley/oktaws/actions/runs/41357574180/job/125000835487) | completed | ❌ failure |
